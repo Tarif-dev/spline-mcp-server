@@ -25,4 +25,4 @@ A production-ready Model Context Protocol (MCP) server for integrating with Spli
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd spline-mcp-server# spline-mcp-server
+cd spline-mcp-server
